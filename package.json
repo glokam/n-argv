@@ -1,0 +1,22 @@
+{
+  "name": "n-argv",
+  "version": "1.0.0",
+  "description": "argv parser",
+  "main": "argv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glokam/n-argv.git"
+  },
+  "keywords": [
+    "argv"
+  ],
+  "author": "Kamil Głowacki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glokam/n-argv/issues"
+  },
+  "homepage": "https://github.com/glokam/n-argv#readme"
+}
